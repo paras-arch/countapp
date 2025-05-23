@@ -2,7 +2,7 @@ name: Print Node Info
 
 on:
   push:
-   branches: [master]
+   branches: [develop]
 
 jobs: 
   node-info:
